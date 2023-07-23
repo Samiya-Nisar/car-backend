@@ -10,10 +10,10 @@ app = Flask(__name__)
 CORS(app)
 
 db_config = {
-    "host": "dpg-ciufiip5rnuhcntlo74g-a",
-    "database": "car_6jjt",
+    "host": "dpg-ciug1a15rnuhcntn7a9g-a",
+    "database": "car_yqul",
     "user": "samiya",
-    "password": "qhs1lxvHtLbQTq3BhuSBjUTRyRDyxNRP"
+    "password": "RWAsGZKi6GtCRryrMJTN6fAydKGswDPU"
 }
 
 
